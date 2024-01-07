@@ -1,0 +1,14 @@
+C:\Users\Gypo\source\repos\Week3\Week3\bin\Debug\net7.0\Week3.exe
+C:\Users\Gypo\source\repos\Week3\Week3\bin\Debug\net7.0\Week3.deps.json
+C:\Users\Gypo\source\repos\Week3\Week3\bin\Debug\net7.0\Week3.runtimeconfig.json
+C:\Users\Gypo\source\repos\Week3\Week3\bin\Debug\net7.0\Week3.dll
+C:\Users\Gypo\source\repos\Week3\Week3\bin\Debug\net7.0\Week3.pdb
+C:\Users\Gypo\source\repos\Week3\Week3\obj\Debug\net7.0\Week3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gypo\source\repos\Week3\Week3\obj\Debug\net7.0\Week3.AssemblyInfoInputs.cache
+C:\Users\Gypo\source\repos\Week3\Week3\obj\Debug\net7.0\Week3.AssemblyInfo.cs
+C:\Users\Gypo\source\repos\Week3\Week3\obj\Debug\net7.0\Week3.csproj.CoreCompileInputs.cache
+C:\Users\Gypo\source\repos\Week3\Week3\obj\Debug\net7.0\Week3.dll
+C:\Users\Gypo\source\repos\Week3\Week3\obj\Debug\net7.0\refint\Week3.dll
+C:\Users\Gypo\source\repos\Week3\Week3\obj\Debug\net7.0\Week3.pdb
+C:\Users\Gypo\source\repos\Week3\Week3\obj\Debug\net7.0\Week3.genruntimeconfig.cache
+C:\Users\Gypo\source\repos\Week3\Week3\obj\Debug\net7.0\ref\Week3.dll
